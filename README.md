@@ -1,1 +1,1 @@
-# DI_245_Firmware
+# DI_245_Firmware (frozen)
